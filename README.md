@@ -1,5 +1,3 @@
-# clp
- 
 This is a command line parser.
 
 Possible prefixes: '--', '-', '/', '@'.
