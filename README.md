@@ -12,4 +12,4 @@ Capabilities:
  - Parameter description generation.
  - Syntax checking.
  
- 
+About the example: place the "Tests" folder next to ClpExample.exe.
