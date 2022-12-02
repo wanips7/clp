@@ -1,7 +1,9 @@
 # clp
  
 This is a command line parser.
+
 Possible prefixes: '--', '-', '/', '@'.
+
 Possible delimeters - any combination of: ' ', ':', '='.
 
 Capabilities:
