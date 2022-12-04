@@ -1,7 +1,7 @@
 {
   This example show how to use command line parser.
 
-  https://github.com/wnps/clp
+  https://github.com/wanips7/clp
 }
 
 program ClpExample;
