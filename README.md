@@ -1,8 +1,8 @@
 This is a command line parser.
 
-Possible prefixes: '--', '-', '/', '@'.
+Supported prefixes: '--', '-', '/', '@'.
 
-Possible delimeters - any combination of: ' ', ':', '='.
+Supported delimeters - any combination of: ' ', ':', '='.
 
 Features:
  - Parameter position does not matter.
