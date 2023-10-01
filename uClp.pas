@@ -1,7 +1,7 @@
 {
   This is a command line parser.
-  Possible prefixes: '--', '-', '/', '@'.
-  Possible delimeters - any combination of: ' ', ':', '='.
+  Supported prefixes: '--', '-', '/', '@'.
+  Supported delimeters - any combination of: ' ', ':', '='.
 
   Features:
    - Parameter position does not matter.
