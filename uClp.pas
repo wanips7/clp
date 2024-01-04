@@ -4,7 +4,6 @@
   Supported delimeters - any combination of: ' ', ':', '='.
 
   Features:
-   - Parameter position does not matter.
    - Checking for parameters that must be specified.
    - Checking of type values and required count.
    - Collecting values from identical parameters.
